@@ -14,17 +14,17 @@ This repository contains reusable DaisyUI theme files that you can freely use, m
 
 ---
 
-## 📦 Installation
+## Installation
 
 DaisyUI theme usage and configuration is documented in the official guide:
 
-👉 https://daisyui.com/docs/themes/
+https://daisyui.com/docs/themes/
 
 Below is a quick summary for common setups.
 
 ---
 
-### 1️⃣ Enable DaisyUI Themes
+### Enable DaisyUI Themes
 
 In your main CSS file enable a theme and and a theme name to the DaisyUI config:
 
@@ -43,22 +43,7 @@ Apply it in HTML:
 <html data-theme="rosepine">
 ```
 
-## 🪪 License
-
-**Creative Commons Attribution 4.0 (CC BY 4.0)**
-
-You are free to:
-- Use
-- Modify
-- Redistribute
-- Use commercially
-
-**Condition:** Author attribution must be preserved.
-
-License text:  
-https://creativecommons.org/licenses/by/4.0/
-
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome:
 - New themes
